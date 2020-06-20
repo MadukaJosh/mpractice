@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mpractice/static/css/main.dcfc5f03.chunk.css",
+    "main.js": "/mpractice/static/js/main.b690edf1.chunk.js",
+    "main.js.map": "/mpractice/static/js/main.b690edf1.chunk.js.map",
+    "runtime-main.js": "/mpractice/static/js/runtime-main.c4c14780.js",
+    "runtime-main.js.map": "/mpractice/static/js/runtime-main.c4c14780.js.map",
+    "static/js/2.f5b7c1d2.chunk.js": "/mpractice/static/js/2.f5b7c1d2.chunk.js",
+    "static/js/2.f5b7c1d2.chunk.js.map": "/mpractice/static/js/2.f5b7c1d2.chunk.js.map",
+    "index.html": "/mpractice/index.html",
+    "precache-manifest.0bad027e24d01079ec312dbd00b67031.js": "/mpractice/precache-manifest.0bad027e24d01079ec312dbd00b67031.js",
+    "service-worker.js": "/mpractice/service-worker.js",
+    "static/css/main.dcfc5f03.chunk.css.map": "/mpractice/static/css/main.dcfc5f03.chunk.css.map",
+    "static/js/2.f5b7c1d2.chunk.js.LICENSE.txt": "/mpractice/static/js/2.f5b7c1d2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/mpractice/static/media/warm-bg.635ed87d.jpg",
+    "static/media/logo.svg": "/mpractice/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4c14780.js",
+    "static/js/2.f5b7c1d2.chunk.js",
+    "static/css/main.dcfc5f03.chunk.css",
+    "static/js/main.b690edf1.chunk.js"
+  ]
+}
